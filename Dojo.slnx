@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Dojo.Caching/Dojo.Caching.csproj" />
+    <Project Path="src/Dojo.Middleware/Dojo.Middleware.csproj" />
+  </Folder>
+  <Folder Name="/SystemDesign/">
+    <Project Path="src/Dojo.UrlShortener/Dojo.UrlShortener.csproj" />
+  </Folder>
+</Solution>
