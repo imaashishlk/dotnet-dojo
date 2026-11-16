@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BilletHub.Application.IServices
 {
-    public class IEventService
+    public interface IEventService
     {
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BilletHub.Application.IRepositories
 {
-    public class IOrderRepository
+    public interface IOrderRepository
     {
     }
 }
