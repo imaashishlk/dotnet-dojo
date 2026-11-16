@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.12" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BilletHub.Application\BilletHub.Application.csproj" />
+    <ProjectReference Include="..\BilletHub.Infrastructure\BilletHub.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
