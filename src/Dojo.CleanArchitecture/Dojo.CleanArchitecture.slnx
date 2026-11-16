@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BilletHub.Api/BilletHub.Api.csproj" Id="9fc8d71f-edae-4ecd-a72a-629d71a1d8c0" />
+  <Project Path="BilletHub.Domain/BilletHub.Domain.csproj" Id="41671d5a-794e-4f81-ad8a-4846e9fa8361" />
+</Solution>
