@@ -1,4 +1,4 @@
-# .NET Dojo 🥋
+# .NET Dojo
 
 My training hall for backend skills.
 
@@ -10,18 +10,6 @@ Each folder is a small, focused .NET project where I practice **one concept** un
 
 ---
 
-## Belt system
-
-Every project earns a belt based on where it is.
-
-| Belt | Meaning |
-|---|---|
-| ⚪ White belt | Planned. On the training list |
-| 🟡 Yellow belt | In training. Being built right now |
-| ⚫ Black belt | Mastered. Done, runs, and documented |
-
----
-
 ## Training log
 
 | # | Topic | Project | What I practice | Key concepts | Belt |
@@ -29,19 +17,6 @@ Every project earns a belt based on where it is.
 | 1 | Middleware | [Dojo.Middleware](src/Dojo.Middleware) | Custom middleware for a real API pipeline | Request timing, correlation IDs, global exception handling, API keys | 🟡 Yellow |
 | 2 | Caching | [Dojo.Caching](src/Dojo.Caching) | Making slow endpoints fast | In-memory cache, Redis, cache-aside, TTL, invalidation | ⚪ White |
 | 3 | System design | [Dojo.UrlShortener](src/Dojo.UrlShortener) | A URL shortener with fast redirects | ID generation, Base62, redirects, caching, rate limiting | ⚪ White |
-
----
-
-## Dojo rules
-
-How every project in this repo is built:
-
-1. **One concept per project.** Small and focused.
-2. **It must run.** One command, no extra setup where possible.
-3. **Own words.** Every project README has a "What I learned" section.
-4. **Show the trade-offs.** Why I chose one approach over another.
-
----
 
 ## Repo structure
 
